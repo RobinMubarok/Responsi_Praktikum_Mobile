@@ -31,3 +31,6 @@ Detail memakai data hasil pencarian (dicari berdasarkan `id` dari navigation arg
 
 ## Menjalankan
 Buka folder ini di Android Studio, tunggu Gradle sync, lalu Run. Atau: `./gradlew assembleDebug`.
+
+##Link
+https://www.youtube.com/playlist?list=PLPiK3OYFs-AE
