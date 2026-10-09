@@ -10,7 +10,7 @@ Dibuat dengan Kotlin, Jetpack Compose, Material 3, Navigation Compose, dan arsit
 - Loading, error (offline, server error, hasil kosong, query kosong), dan fallback `N/A` untuk data null
 
 ## Screenshot & GIF
-
+![screenshot](https://github.com/RobinMubarok/Responsi_Praktikum_Mobile/blob/main/MovieExploler/Screenshot_20261009-205641.png)
 
 ## Struktur MVVM
 ```
