@@ -10,7 +10,7 @@ Dibuat dengan Kotlin, Jetpack Compose, Material 3, Navigation Compose, dan arsit
 - Loading, error (offline, server error, hasil kosong, query kosong), dan fallback `N/A` untuk data null
 
 ## Screenshot & GIF
-_(tambahkan screenshot Home, Detail, dan GIF demo di sini)_
+
 
 ## Struktur MVVM
 ```
