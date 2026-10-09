@@ -11,6 +11,7 @@ Dibuat dengan Kotlin, Jetpack Compose, Material 3, Navigation Compose, dan arsit
 
 ## Screenshot & GIF
 ![screenshot](https://github.com/RobinMubarok/Responsi_Praktikum_Mobile/blob/main/MovieExploler/Screenshot_20261009-205641.png)
+https://github.com/RobinMubarok/Responsi_Praktikum_Mobile/blob/main/MovieExploler/Recording_20261009_205706.mp4
 
 ## Struktur MVVM
 ```
